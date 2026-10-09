@@ -1,4 +1,4 @@
-# Anson Li (Li Kin Lung)
+# Anson Li 
 
 Hong Kong
 
