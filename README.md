@@ -19,5 +19,5 @@ Older school repositories are archive. New work will be Autobot and HK SME autom
 ## Contact
 
 - GitHub: [@lethal-dragon](https://github.com/lethal-dragon)
-- LinkedIn: `[(https://www.linkedin.com/in/anson-li-ai-automate)]`
+- LinkedIn:(https://www.linkedin.com/in/anson-li-ai-automate)
 
